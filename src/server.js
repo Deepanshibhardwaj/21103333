@@ -33,7 +33,7 @@ const fetchNumbers = async (type) => {
         const responseData = response.data.numbers;
         console.log(`Received data for type '${type}':`, responseData);
         if (!Array.isArray(responseData)) {
-            console.error(`Response data for type '${type}' is not an array:`, res
+            console.error(`Response data for type '${type}' is not an array:`, responseData);
             return [];
         }
         return responseData;
