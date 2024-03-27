@@ -1,6 +1,7 @@
 Average Calculator HTTP Microservices
 
 
+![image](https://github.com/Deepanshibhardwaj/21103333/assets/124522200/c10de76b-7276-4802-881b-7c11e47b8b25)
 
 ![image](https://github.com/Deepanshibhardwaj/21103333/assets/124522200/1b4c72e0-1c7d-424a-866a-2063a3c54e3b)
 ![image](https://github.com/Deepanshibhardwaj/21103333/assets/124522200/eadaab06-a866-41ba-86c9-bd4d878cb22e)
